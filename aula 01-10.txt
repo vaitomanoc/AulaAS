@@ -1,0 +1,19 @@
+Github: 
+branch = nossa timeline
+commit changes= descrição do conteudo
+comando clear: para limpar tudo
+Seta para cima mostra o ultimo comando que foi digitado
+LS= comando para poder ver tudo que tem dentro da pasta atual que vc esteja
+LS -A mostra arquivos ocultos
+LS -L exibir informaçoes da pasta
+LS -H tras as informações mais detalhadas
+D quando não tem nada
+R= read pode ler
+Write = escrever 
+X= PODE SER excutado. Ex: abri uma pasta
+
+
+vc        grupo           outros
+rwx       rwx             rwx
+
+(-) restringe o acesso ao documento
